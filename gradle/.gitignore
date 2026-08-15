@@ -1,0 +1,23 @@
+# Сгенерированные файлы Android
+/build/
+/gradle/
+/local.properties
+*.iml
+*.keystore
+
+# Настройки Android Studio
+.idea/
+*.hprof
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Логи и временные файлы
+*.log
+.cache/
+.DS_Store
+
+# Файлы Windows
+Thumbs.db
+Desktop.ini
